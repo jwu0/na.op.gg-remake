@@ -62,3 +62,6 @@ h1{
 .ui.labeled.input{
   width: 600px;
 }
+.size-class{
+  height: 250px
+}
