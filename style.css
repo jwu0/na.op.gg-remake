@@ -3,12 +3,20 @@
   background-color: #232f46;
   box-shadow: none;
   border: none;
+  height: 70px;
+  padding-bottom: 20px;
+}
+.color-class {
+  color: white;
 }
 
 .ui.borderless.slightlylowertopmenu.menu{
   color: white;
+  padding-top: 23px;
   background-color: #5383e8;
   box-shadow: none;
+  width: auto;
+  text-align: center;
 }
 
 .ui.borderless.middlemenu.menu {
@@ -21,4 +29,36 @@
 
 body{
   background-color: #5383e8;
+}
+.text{
+  color: white;
+}
+.text.item{
+  color: white;
+}
+h1{
+  text-align: center;
+  margin-right: 470px;
+}
+.footer-background{
+  background-color: white;
+  width: 1200px;
+  margin: auto;
+}
+.ui.borderless.bottommenu.menu{
+  color: white;
+  margin-top: 90px;
+  background-color: #5383e8;
+  padding-top: 23px;
+}
+
+.ui.borderless.endtext.menu{
+  color: white;
+  margin-top: auto;
+  background-color: #5383e8;
+  border: none;
+  box-shadow: none;
+}
+.ui.labeled.input{
+  width: 600px;
 }
