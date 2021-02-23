@@ -1,0 +1,24 @@
+.ui.borderless.topmenu.menu {
+  color: white;
+  background-color: #232f46;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.slightlylowertopmenu.menu{
+  color: white;
+  background-color: #5383e8;
+  box-shadow: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  color: white;
+  box-shadow: none;
+  background-color: #5383e8;
+  border: none;
+  padding-top: 15px;
+}
+
+body{
+  background-color: #5383e8;
+}
